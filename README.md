@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Enrique - aka [Gorwast][website]
+# Hi there 👋, I'm [Enrique][website]!
 
 ### I'm a student of systems engineering, gamer and programmer, I just add my personal projects to github.
 
