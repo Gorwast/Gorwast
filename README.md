@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently trying to learning everything 🤣
 - 👯 I’m looking to create something amazing with more people
-- 🥅 2021 Goals: build my personal project repertoire
+- 🥅 2023 Goals: build my personal project repertoire
 - ⚡ Things about me: I love to play videogames and play on piano
 
 ## Find me on:
@@ -29,6 +29,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-[website]: https://gorwast.github.io/WebPage/
+[website]: https://www.gorwast.com
 [twitter]: https://twitter.com/gorwastl
 [youtube]: http://youtube.com/c/GorwastL
