@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently trying to learning everything 🤣
 - 👯 I’m looking to create something amazing with more people
-- 🥅 2024 Goals: build my personal project repertoire
+- 🥅 2025 Goals: build my personal project repertoire
 - ⚡ Things about me: I love to play videogames and play on piano
 
 ## Find me on:
