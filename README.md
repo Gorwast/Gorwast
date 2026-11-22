@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently trying to learning everything 🤣
 - 👯 I’m looking to create something amazing with more people
-- 🥅 2025 Goals: build my personal project repertoire
-- ⚡ Things about me: I love to play videogames and play on piano
+- ⚡ Things about me: I love to play videogames, specially rythm games
 
 ## Find me on:
 
 [<img align="left" alt="gorwast.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="steam | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br/>
@@ -34,3 +34,4 @@
 [website]: https://www.gorwast.com
 [twitter]: https://twitter.com/gorwastl
 [youtube]: http://youtube.com/c/GorwastL
+[steam]: https://steamcommunity.com/id/gorwast/
